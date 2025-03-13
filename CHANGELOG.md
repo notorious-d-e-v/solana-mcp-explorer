@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.1.0...v1.2.0) (2025-03-13)
+
+
+### Features
+
+* test release ([d6a5349](https://github.com/notorious-d-e-v/solana-mcp-explorer/commit/d6a5349f4217d34b8d77fc3a87f942eb1862c9cd))
+
 # [1.1.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.0.0...v1.1.0) (2025-03-13)
 
 
