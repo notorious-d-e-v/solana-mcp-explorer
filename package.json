@@ -1,6 +1,6 @@
 {
   "name": "solana-mcp-explorer",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "description": "Explore all of the MCP Servers in the Solana ecosystem! ",
   "keywords": [
     "mcp",

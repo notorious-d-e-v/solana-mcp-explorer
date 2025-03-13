@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.2.1...v1.3.0) (2025-03-13)
+
+
+### Features
+
+* add Spice mpc server ([0adeca0](https://github.com/notorious-d-e-v/solana-mcp-explorer/commit/0adeca0bc3f340dfcbd7beec5465233584790bad))
+
 ## [1.2.1](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.2.0...v1.2.1) (2025-03-13)
 
 
