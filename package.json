@@ -1,0 +1,26 @@
+{
+  "name": "solana-mcp-explorer",
+  "version": "1.0.0",
+  "description": "Explore all of the MCP Servers in the Solana ecosystem! ",
+  "keywords": [
+    "mcp",
+    "solana",
+    "ai",
+    "mcp",
+    "server"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-notorious-d-e-v:notorious-d-e-v/solana-mcp-explorer.git"
+  },
+  "license": "MIT",
+  "author": "Notorious D.E.V.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.7.0"
+  }
+}
