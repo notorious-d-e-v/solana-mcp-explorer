@@ -1,10 +1,12 @@
 # solana-mcp-explorer
-Explore all of the MCP Servers in the Solana ecosystem!
+### Explore the MCP Servers in the Solana ecosystem!
 
-Before
+**Before**  
+
 ![Before Image](./images/before.png)
 
-After
+**After**
+
 ![After Image](./images/after.png)
 
 
@@ -31,8 +33,9 @@ Add the following to your Claude Desktop configuration file
 }
 ```
 
-## Adding Your MCP Server to the Explorer
+## Contributing
 
-We would love to have your MCP Server added to the Explorer!
+Have you created a MCP server for Solana?
+We'd love to add it to the explorer!
 
 To add your MCP Server to the Explorer, please edit the `src/servers.js` file with your server's information, and submit a PR.
