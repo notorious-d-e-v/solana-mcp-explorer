@@ -9,6 +9,7 @@ permissions:
   contents: write  # Allows pushing commits and tags
   issues: write    # Needed if semantic-release posts release notes
   pull-requests: write  # Needed if semantic-release creates version bump PRs
+  packages: write  # Needed if semantic-release publishes to a package registry
 
 jobs:
   release:
