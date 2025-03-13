@@ -17,7 +17,7 @@ Add the following to your Claude Desktop configuration file
     "solana-mcp-explorer": {
       "command": "npx",
       "args": [
-        "solana-mcp-explorer"
+        "solana-mcp-explorer@latest"
       ]
     }
   }
