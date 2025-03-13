@@ -1,6 +1,13 @@
 # solana-mcp-explorer
 Explore all of the MCP Servers in the Solana ecosystem!
 
+Before
+![Before Image](./images/before.png)
+
+After
+![After Image](./images/after.png)
+
+
 Simply add this MCP Server to your MCP Host, and you can explore all of the MCP Servers in the Solana ecosystem.
 
 
