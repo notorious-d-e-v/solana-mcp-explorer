@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.2.0...v1.2.1) (2025-03-13)
+
+
+### Bug Fixes
+
+* do not import zod as it's not needed and not part of the project dependencies atm ([2926620](https://github.com/notorious-d-e-v/solana-mcp-explorer/commit/2926620651166a0d45d56ff25dd015ec22fe1b9a))
+
 # [1.2.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.1.0...v1.2.0) (2025-03-13)
 
 
