@@ -10,7 +10,7 @@ const mcpServers = [
     },
     {
         "name": "Solana MCP Explorer",
-        "description": "Discover all the MCPs on Solana",
+        "description": "Discover all the MCPs on Solana!",
         "homepage": "https://github.com/notorious-d-e-v/solana-mcp-explorer",
     },
     {
