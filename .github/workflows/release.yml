@@ -30,7 +30,9 @@ jobs:
         run: npm install
 
       - name: Set up npm authentication
-        run: cat ~/.npmrc
+        run: |
+          echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" > ~/.npmrc
+          cat ~/.npmrc
 
       - name: Run Semantic Release
         env:
