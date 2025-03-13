@@ -17,6 +17,11 @@ const mcpServers = [
         "name": "Solana Model Context Protocol (MCP) Demo",
         "description": "This demo showcases a simple MCP server implementation that provides basic RPC methods for Solana (getBalance, getAccountInfo, getTransaction), and some helpful prompts for Solana development.",
         "homepage": "https://github.com/solana-foundation/solana-dev-mcp"
+    },
+    {
+        "name": "Spice Solana Data Querying",
+        "description": "MCP server that implements a Solana data query system. It allows users to fetch Solana catalog metadata, and provides tools for querying Solana blockchain data via Flipside API.",
+        "homepage": "https://github.com/getnimbus/spice/tree/main"
     }
 ]
 
