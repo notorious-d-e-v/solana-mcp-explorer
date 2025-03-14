@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.3.0...v1.4.0) (2025-03-14)
+
+
+### Features
+
+* add  Solana Limit Order and Solana Forum Summarizer ([d483c20](https://github.com/notorious-d-e-v/solana-mcp-explorer/commit/d483c2008f01636afe799e62f14bc98fa20c618b))
+
 # [1.3.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.2.1...v1.3.0) (2025-03-13)
 
 
