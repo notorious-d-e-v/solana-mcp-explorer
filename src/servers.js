@@ -22,6 +22,16 @@ const mcpServers = [
         "name": "Spice Solana Data Querying",
         "description": "MCP server that implements a Solana data query system. It allows users to fetch Solana catalog metadata, and provides tools for querying Solana blockchain data via Flipside API.",
         "homepage": "https://github.com/getnimbus/spice/tree/main"
+    },
+    {
+        "name": "Solana Limit Order",
+        "description": "Create Limit Orders on Solana via Jupiter, get an overview of your open orders, view your past orders, and cancel open limit orders!",
+        "homepage": "https://github.com/dimitrov-d/solana-limit-order-mcp"
+    },
+    {
+        "name": "Solana Forum Summarizer",
+        "description": "Get posts from the Solana Forum, including latest posts, and top posts. Filter forum posts by category, activity, age, author and more. Search forum posts by keywords. Summarize forum posts.",
+        "homepage": "https://github.com/dimitrov-d/solana-forum-summarizer-mcp"
     }
 ]
 
