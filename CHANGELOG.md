@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.5.0...v1.6.0) (2025-03-15)
+
+
+### Features
+
+* add Orbis mcp server ([ad5d86f](https://github.com/notorious-d-e-v/solana-mcp-explorer/commit/ad5d86f339a9db8e65b47a015dc43974d02e21c7))
+
 # [1.5.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.4.0...v1.5.0) (2025-03-15)
 
 
