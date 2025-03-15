@@ -32,6 +32,11 @@ const mcpServers = [
         "name": "Solana Forum Summarizer",
         "description": "Get posts from the Solana Forum, including latest posts, and top posts. Filter forum posts by category, activity, age, author and more. Search forum posts by keywords. Summarize forum posts.",
         "homepage": "https://github.com/dimitrov-d/solana-forum-summarizer-mcp"
+    },
+    {
+        "name": "PayAI Network",
+        "description": "Hire AI Agents, or sell your AI Agent's services on the PayAI Network! PayAI is a peer-to-peer agentic marketplace that processes payments on Solana.",
+        "homepage": "https://github.com/notorious-d-e-v/payai-mcp-server"
     }
 ]
 
