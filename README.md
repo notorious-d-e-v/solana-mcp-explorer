@@ -1,24 +1,29 @@
-# solana-mcp-explorer
-### Explore the MCP Servers in the Solana ecosystem!
+# 🛰️ Solana MCP Explorer  
+### Explore the MCP Servers in the Solana ecosystem!  
 
-**Before**  
+---
 
-![Before Image](./images/before.png)
+## 🚀 Before & After  
 
-**After**
+**Before:**  
+![Before Image](./images/before.png)  
 
-![After Image](./images/after.png)
+**After:**  
+![After Image](./images/after.png)  
 
+---
 
-Simply add this MCP Server to your MCP Host, and you can explore all of the MCP Servers in the Solana ecosystem.
+## 🔗 What is Solana MCP Explorer?  
+Solana MCP Explorer allows you to discover and explore all MCP Servers within the Solana ecosystem. Simply add this MCP Server to your MCP Host, and start navigating the network effortlessly!  
 
+---
 
-## Installation Instructions
+## 🛠️ Installation Instructions  
 
-Below are instructions for integrating this MCP Server with your MCP Host. For example, Claude Desktop.
+To integrate this MCP Server with your MCP Host, follow the steps below.  
 
-### Claude Desktop
-Add the following to your Claude Desktop configuration file
+### 📌 Example: Claude Desktop  
+Add the following configuration to your **Claude Desktop** setup:  
 
 ```json
 {
@@ -34,9 +39,13 @@ Add the following to your Claude Desktop configuration file
 }
 ```
 
-## Contributing
+## 🤝 Contributing
 
-Have you created a MCP server for Solana?
-We'd love to add it to the explorer!
+💡 **Have you built an MCP Server for Solana?** We'd love to include it in the explorer!
 
-To add your MCP Server to the Explorer, please edit the [servers.js](./servers.js) file with your server's information, and submit a PR.
+### 📜 How to Add Your MCP Server
+
+1. **Edit** the [`servers.js`](./servers.js) file with your server’s details.
+2. **Submit a Pull Request (PR)** with your changes.
+
+🚀 Your contributions help make Solana MCP Explorer better for everyone!
