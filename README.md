@@ -26,6 +26,7 @@ Add the following to your Claude Desktop configuration file
     "solana-mcp-explorer": {
       "command": "npx",
       "args": [
+        "-y",
         "solana-mcp-explorer@latest"
       ]
     }
@@ -38,4 +39,4 @@ Add the following to your Claude Desktop configuration file
 Have you created a MCP server for Solana?
 We'd love to add it to the explorer!
 
-To add your MCP Server to the Explorer, please edit the `src/servers.js` file with your server's information, and submit a PR.
+To add your MCP Server to the Explorer, please edit the [servers.js](./servers.js) file with your server's information, and submit a PR.

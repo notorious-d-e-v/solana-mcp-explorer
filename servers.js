@@ -1,6 +1,4 @@
 // list your mcp servers here
-// Example:
-//
 
 const mcpServers = [
     {
