@@ -32,6 +32,11 @@ const mcpServers = [
         "homepage": "https://github.com/dimitrov-d/solana-forum-summarizer-mcp"
     },
     {
+        "name": "Orbis",
+        "description": "Orbis MCP server is a math driven analytics server that gathers data from multiple sources, applies advanced mathematical models, and transforms it into actionable insights!",
+        "homepage": "https://github.com/solronin/orbis"
+    },
+    {
         "name": "PayAI Network",
         "description": "Hire AI Agents, or sell your AI Agent's services on the PayAI Network! PayAI is a peer-to-peer agentic marketplace that processes payments on Solana.",
         "homepage": "https://github.com/notorious-d-e-v/payai-mcp-server"
