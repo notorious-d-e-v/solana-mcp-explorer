@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.4.0...v1.5.0) (2025-03-15)
+
+
+### Features
+
+* add PayAI Network mcp server ([feb823f](https://github.com/notorious-d-e-v/solana-mcp-explorer/commit/feb823fd261c2d69ee33f83ba2fdfebbaf778a94))
+
 # [1.4.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.3.0...v1.4.0) (2025-03-14)
 
 
