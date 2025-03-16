@@ -2,19 +2,44 @@
 
 const mcpServers = [
     {
+        "name": "DaoCLI MCP Server",
+        "description": "A tool to create & manage DAOs effortlessly using Anthropic AI Claude MCP. 🤖⚡Built for decentralized governance on Solana!",
+        "homepage": "https://github.com/DaoCLI/daoCLI-init"
+    },
+    {
+        "name": "DeBridge MCP Server",
+        "description": "Cross-chain token bridging between Solana and Ethereum, using deBridge!",
+        "homepage": "https://github.com/bussyjd/debridge-mcp"
+    },
+    {
+        "name": "MCP Meme Deployer",
+        "description": "Deploy Instantly Tradable Tokens on Solana with Claude For Free! Just send Claude a name and symbol and it will deploy a token for you and seed a single sided LP pool on Orca for free!",
+        "homepage": "https://github.com/kirabuilds/mcp-meme-deployer"
+    },
+    {
         "name": "Solana Agent Kit MCP Server",
         "description": "A Model Context Protocol (MCP) server that provides onchain tools for Claude AI. This allows Claude to interact with the Solana blockchain, execute transactions, query account information, and manage Solana wallets.",
         "homepage": "https://github.com/sendaifun/solana-mcp"
     },
     {
+        "name": "Solana Developer Toolkit",
+        "description": "Provides developer-friendly tools for creating and testing smart contracts on Solana, through Claude Desktop, Cursor, or your favorite MCP host!",
+        "homepage": "https://github.com/YCrydev/solana-dev-mcp-extension"
+    },
+    {
         "name": "Solana MCP Explorer",
         "description": "Discover all the MCP servers on Solana!",
-        "homepage": "https://github.com/notorious-d-e-v/solana-mcp-explorer",
+        "homepage": "https://github.com/notorious-d-e-v/solana-mcp-explorer"
     },
     {
         "name": "Solana Model Context Protocol (MCP) Demo",
         "description": "This demo showcases a simple MCP server implementation that provides basic RPC methods for Solana (getBalance, getAccountInfo, getTransaction), and some helpful prompts for Solana development.",
         "homepage": "https://github.com/solana-foundation/solana-dev-mcp"
+    },
+    {
+        "name": "SolMCP",
+        "description": "An MCP server with a set of 7 tools to make and help every Solana degen, validator and node operator!",
+        "homepage": "https://github.com/N-45div/SolMCP---SendAI-MCP-competition"
     },
     {
         "name": "Spice Solana Data Querying",
