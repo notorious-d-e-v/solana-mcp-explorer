@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.7.0...v1.8.0) (2025-03-16)
+
+
+### Features
+
+* add Solana DeFi Analytics MCP Server ([c4a8876](https://github.com/notorious-d-e-v/solana-mcp-explorer/commit/c4a8876d6546f6edd93995f0ec0c129f4b0dc936))
+
 # [1.7.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.6.0...v1.7.0) (2025-03-16)
 
 
