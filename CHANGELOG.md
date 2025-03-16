@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.6.0...v1.7.0) (2025-03-16)
+
+
+### Features
+
+* add more servers! ([fd8ae06](https://github.com/notorious-d-e-v/solana-mcp-explorer/commit/fd8ae06156de5f6500544e8716d423db76c9a578))
+
 # [1.6.0](https://github.com/notorious-d-e-v/solana-mcp-explorer/compare/v1.5.0...v1.6.0) (2025-03-15)
 
 
