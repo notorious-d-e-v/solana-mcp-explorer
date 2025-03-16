@@ -22,6 +22,11 @@ const mcpServers = [
         "homepage": "https://github.com/sendaifun/solana-mcp"
     },
     {
+        "name": "Solana DeFi Analytics MCP Server",
+        "description": "A Model Context Protocol (MCP) server that provides comprehensive analytics and insights for Solana wallets and their DeFi activities.",
+        "homepage": "https://github.com/kirtiraj22/solana-mcp"
+    },
+    {
         "name": "Solana Developer Toolkit",
         "description": "Provides developer-friendly tools for creating and testing smart contracts on Solana, through Claude Desktop, Cursor, or your favorite MCP host!",
         "homepage": "https://github.com/YCrydev/solana-dev-mcp-extension"
